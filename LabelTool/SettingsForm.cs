@@ -363,8 +363,17 @@ public class SettingsForm : Form
     {
         cmbShPrinter.Items.Clear();
         foreach (var p in PrintService.GetPrinters()) cmbShPrinter.Items.Add(p);
-        if (cmbShPrinter.Items.Count > 0) cmbShPrinter.SelectedIndex = 0;
-        else LoadShPrinterState(); // 没有打印机也要把界面置为空状态
+        if (cmbShPrinter.Items.Count > 0)
+        {
+            // 构造期间 _loading=true，SelectedIndexChanged 会被守卫拦下，需手动初始化
+            cmbShPrinter.SelectedIndex = 0;
+            _aliasPrinter = cmbShPrinter.SelectedItem as string;
+        }
+        else
+        {
+            _aliasPrinter = null;
+        }
+        LoadShPrinterState();
     }
 
     /// <summary>预设绑定打印机变化：重建自定义纸张列表并按需刷新自定义状态</summary>
