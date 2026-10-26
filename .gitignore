@@ -1,0 +1,6 @@
+# ---- 配电柜标签工具（C# 版）----
+/LabelTool/bin/
+/LabelTool/obj/
+*.user
+*.suo
+.vs/

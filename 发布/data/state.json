@@ -1,0 +1,139 @@
+{
+  "Paper": {
+    "Name": "A4 (210×297)",
+    "WidthMm": 210,
+    "HeightMm": 297
+  },
+  "Presets": [
+    {
+      "Name": "大标签",
+      "WidthMm": 50,
+      "HeightMm": 14,
+      "FontPt": 13,
+      "FontFamily": "宋体",
+      "LineSpacing": 0,
+      "CharSpacing": 0,
+      "Weight": 0,
+      "PrinterName": "惠普",
+      "PrintMode": "Sheet",
+      "PaperName": null,
+      "Rotation": 0,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "HAlign": "Center",
+      "VAlign": "Middle"
+    },
+    {
+      "Name": "小标签",
+      "WidthMm": 31.5,
+      "HeightMm": 14,
+      "FontPt": 13,
+      "FontFamily": "宋体",
+      "LineSpacing": 0,
+      "CharSpacing": 0,
+      "Weight": 0,
+      "PrinterName": "惠普",
+      "PrintMode": "Sheet",
+      "PaperName": null,
+      "Rotation": 0,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "HAlign": "Center",
+      "VAlign": "Middle"
+    },
+    {
+      "Name": "标识框  粘贴",
+      "WidthMm": 39,
+      "HeightMm": 8,
+      "FontPt": 13,
+      "FontFamily": "宋体",
+      "LineSpacing": 0,
+      "CharSpacing": 0,
+      "Weight": 0,
+      "PrinterName": "Zprinter TP-80W 真",
+      "PrintMode": "Sheet",
+      "PaperName": "User defined",
+      "Rotation": 0,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "HAlign": "Center",
+      "VAlign": "Middle"
+    },
+    {
+      "Name": "标识框",
+      "WidthMm": 39,
+      "HeightMm": 8,
+      "FontPt": 13,
+      "FontFamily": "宋体",
+      "LineSpacing": 0,
+      "CharSpacing": 0,
+      "Weight": 0,
+      "PrinterName": "惠普",
+      "PrintMode": "Sheet",
+      "PaperName": null,
+      "Rotation": 0,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "HAlign": "Center",
+      "VAlign": "Middle"
+    },
+    {
+      "Name": "标识框  粘贴2",
+      "WidthMm": 39,
+      "HeightMm": 8,
+      "FontPt": 13,
+      "FontFamily": "宋体",
+      "LineSpacing": 0,
+      "CharSpacing": 0,
+      "Weight": 0,
+      "PrinterName": "Zprinter TP-80W 真",
+      "PrintMode": "Sheet",
+      "PaperName": "User defined",
+      "Rotation": 0,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "HAlign": "Center",
+      "VAlign": "Middle"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "默认项目",
+      "Cabinets": [
+        "默认柜子"
+      ]
+    }
+  ],
+  "CurrentProject": "默认项目",
+  "CurrentCabinet": "默认柜子",
+  "CurrentPresetName": "大标签",
+  "Words": [
+    "1",
+    "a",
+    "3X21-1",
+    "3X21-2",
+    "asdfadf",
+    "adfadf",
+    "3X21-5",
+    "fasf",
+    "adf",
+    "adfa",
+    "adfadfadfafd",
+    "充电模块1开关",
+    "MK1",
+    "MK3",
+    "MK2",
+    "af",
+    "fad",
+    "asdfa",
+    "fadfd",
+    "fsasdfasdffas",
+    "asdfaf",
+    "fdadf"
+  ],
+  "MergeSeparator": " ",
+  "PrinterAliases": {
+    "Zprinter TP-80W 真": "银标签"
+  },
+  "PrinterOffsets": {}
+}

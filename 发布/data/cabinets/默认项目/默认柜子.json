@@ -1,0 +1,45 @@
+{
+  "Project": "默认项目",
+  "Name": "默认柜子",
+  "Types": {
+    "标识框  粘贴": {
+      "Labels": [
+        "af\nfad"
+      ],
+      "FontFamily": null,
+      "FontSize": 0,
+      "AutoFit": false,
+      "AutoSize": true,
+      "LineSpacing": -0.9,
+      "CharSpacing": 0.1,
+      "Weight": 0.15
+    },
+    "大标签": {
+      "Labels": [
+        "adfa\nfsasdfasdffas",
+        "asdfa\nfadfd",
+        "asdfaf\nfdadf"
+      ],
+      "FontFamily": null,
+      "FontSize": 0,
+      "AutoFit": false,
+      "AutoSize": true,
+      "LineSpacing": -0.5,
+      "CharSpacing": 0,
+      "Weight": 0.15
+    },
+    "标识框  粘贴2": {
+      "Labels": [
+        "1"
+      ],
+      "FontFamily": null,
+      "FontSize": 0,
+      "AutoFit": false,
+      "AutoSize": false,
+      "LineSpacing": 0,
+      "CharSpacing": 0,
+      "Weight": 0
+    }
+  },
+  "CurrentType": "大标签"
+}
